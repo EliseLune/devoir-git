@@ -1,7 +1,7 @@
 01 Nom: Elise Lei
 01 github:
 02 Nom: Louison Rapin
-02 github:
+02 github:lrapin
 03 Nom: Caroline JEANDAT
 03 github:
 04 Nom:Colombel
